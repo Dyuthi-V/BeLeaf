@@ -65,7 +65,7 @@ BeLeaf addresses these challenges by converting sustainability into manageable, 
 
 BeLeaf is a gamified web platform centered around the concept of “everyday environmentalism.”
 
-The platform encourages users to complete environmentally responsible tasks, referred to as “Side Quests,” which range from simple daily actions to collaborative community initiatives.
+The platform encourages users to complete environmentally responsible tasks, referred to as “Side Quests” which range from simple daily actions to collaborative community initiatives.
 
 Users earn leaves, experience points (XP), streaks, and achievements as they complete tasks. These rewards contribute toward the visual growth of a digital tree and eventually an entire forest ecosystem, reinforcing progress and long-term engagement.
 
