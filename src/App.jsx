@@ -50,7 +50,7 @@ const LEADERBOARD = [
 ];
 
 // --- Helper: Gemini API Integration ---
-const apiKey = "AIzaSyBzo25JA63GvhQ4WobIL68gA3KZoL_MvxQ"
+const apiKey = ""
 
 async function askLeafy(query) {
 try {
