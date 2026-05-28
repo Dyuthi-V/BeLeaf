@@ -249,7 +249,7 @@ Capabilities include:
 Follow these steps to clone the repository and run the application locally.
 
 1. Clone the repository
-git clone [https://github.com/Dyuthi-V/BeLeaf.git]
+git clone [https://github.com/Dyuthi-V/BeLeaf.git](https://github.com/Dyuthi-V/BeLeaf.git)
 
 2. Navigate into the project folder
 cd BeLeaf
@@ -257,10 +257,14 @@ cd BeLeaf
 3. Install dependencies using the legacy peer flag
 npm install --legacy-peer-deps
 
-4. Start the local development server
+4. Configure the API Key
+Open 'src/App.jsx' and paste your Google AI Studio API key at the top:
+const apiKey = "YOUR_GEMINI_API_KEY_HERE";
+
+5. Start the local development server
 npm run dev
 
-5. Open the application
+6. Open the application
 Navigate to http://localhost:5173/ in your browser
 
 ## Future Scope
